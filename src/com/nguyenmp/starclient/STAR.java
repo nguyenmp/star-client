@@ -8,11 +8,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import java.io.IOException;
 
 /**
- * Created with IntelliJ IDEA.
- * User: mark
- * Date: 8/7/13
- * Time: 4:31 PM
- * To change this template use File | Settings | File Templates.
+ * A facade that handles all the complicated HTTP calls involved with the STAR API.
  */
 public class STAR {
 	public static final String LOGIN_URL = "https://isis.sa.ucsb.edu/STAR/";
