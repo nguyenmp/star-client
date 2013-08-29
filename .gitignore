@@ -11,3 +11,6 @@
 
 # Backup Files #
 *~
+
+# Include library files #
+!lib/*.jar
